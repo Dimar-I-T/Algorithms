@@ -3,7 +3,7 @@
 #include <map>
 #include <vector>
 #include <string>
-
+// Dimar's Algorithm to find the number of palindromes
 using namespace std;
 
 int main(){
