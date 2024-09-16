@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Dimar's Topological Sort Algorithm
 vector<vector<int>> koneksi(50001);
 vector<int> pernah(50001), b(50001), hasil;
 bool adaCycle = 0;
