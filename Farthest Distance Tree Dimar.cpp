@@ -4,7 +4,7 @@
 #define mp make_pair
 #define f first
 #define s second
-
+// Dimar's Code
 using namespace std;
 vector<vector<int>> tetangga(100001);
 vector<bool> sudah(100001);
