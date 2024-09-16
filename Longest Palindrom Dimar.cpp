@@ -3,7 +3,7 @@
 #include <map>
 #include <vector>
 #include <string>
-
+// Dimar's Longest Palindrome Algorithm
 using namespace std;
 
 int main(){
