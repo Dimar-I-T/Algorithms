@@ -3,7 +3,7 @@
 #define mp make_pair
 #define f first
 #define s second
-
+// Dimar's Code
 using namespace std;
 vector<int> a(100001), seg(4*100001);
 vector<pair<int, int>> itv(100001); 
