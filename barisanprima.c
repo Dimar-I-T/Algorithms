@@ -3,7 +3,7 @@
 #include <math.h>
 
 int main(){
-    // Ramid's Prime Generator Algorithm
+    // Dimar's Prime Generator Algorithm
     long long batas;
     scanf ("%lli", &batas);
     long long barisanPrima[1000000], pangkat[1000000], k = 0, idxPangkat = 1, idxPrima = 2, tambah = 0;
