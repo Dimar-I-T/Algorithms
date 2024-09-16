@@ -2,13 +2,13 @@
 #include <map>
 #include <vector>
 #define ll unsigned long long
-
+// Dimar's Code
 using namespace std;
 
 map<ll, ll> waktuMaks;
 map<ll, map<ll, ll>> waktu;
 map<ll, vector<ll>> hub;
-map<ll, bool> visited; // Memoization to keep track of visited nodes
+map<ll, bool> visited;
 
 ll DFS(ll di){
     if (visited[di]) {
